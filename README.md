@@ -217,4 +217,4 @@ Solace is offered as a full free version with all features and updates included.
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-15 06:41:23 UTC
+**Last updated:** 2026-10-15 12:15:53 UTC
